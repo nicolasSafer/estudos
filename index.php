@@ -1,6 +1,6 @@
 <?php
 $acao = 'recuperar_pendente';
-require 'tarefa_controller.php';
+require 'tarefa_controller_public.php';
 ?>
 
 <script>
